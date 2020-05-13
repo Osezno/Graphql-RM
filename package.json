@@ -1,0 +1,18 @@
+{
+  "name": "roomie",
+  "version": "1.0.0",
+  "description": "Roomies task manager",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "dev":"nodemon ."
+  },
+  "author": "Jose Carlos Gonzalez A.K.A Osezno",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.11.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
