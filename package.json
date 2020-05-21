@@ -10,7 +10,9 @@
   "author": "Jose Carlos Gonzalez A.K.A Osezno",
   "license": "ISC",
   "dependencies": {
-    "apollo-server": "^2.11.0"
+    "apollo-server": "^2.11.0",
+    "dotenv": "^8.2.0",
+    "mongoose": "^5.9.7"
   },
   "devDependencies": {
     "nodemon": "^2.0.3"
